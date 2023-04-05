@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "email": "Hina122@yahoo.com",
+      "password": "ddsess",
+      "role": "User",
+      "id": 4
+    },
+    {
+      "email": "Milesh122@gmail.com",
+      "password": "sss",
+      "role": "Admin",
+      "id": 5
+    },
+    {
+      "email": "Aman212@gmail.com",
+      "password": "ssss",
+      "role": "Admin",
+      "id": 7
+    },
+    {
+      "email": "Jinalshan212@yahoo.com",
+      "password": "sss",
+      "role": "Admin",
+      "id": 8
+    },
+    {
+      "email": "Hiral221@gmail.com",
+      "password": "1234",
+      "role": "User",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

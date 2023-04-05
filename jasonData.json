@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "khan@gmail.com",
+      "password": "typicode",
+      "id": 2
+    },
+    {
+      "email": "neha@gmail.com",
+      "password": "12qaaaa",
+      "id": 3
+    },
+    {
+      "email": "Enapatel123@gmail.com",
+      "password": "1234saz",
+      "id": 4
+    },
+    {
+      "email": "Krima12@gmail.com",
+      "password": "pwsm2",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

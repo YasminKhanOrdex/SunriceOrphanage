@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "yasmin212@gmail.com",
+      "password": "eedd",
+      "role": "Admin",
+      "id": 2
+    },
+    {
+      "email": "keshav@yahoo.com",
+      "password": "eessdd",
+      "role": "Admin",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
